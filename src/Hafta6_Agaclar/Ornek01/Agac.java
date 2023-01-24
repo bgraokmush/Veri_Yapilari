@@ -11,7 +11,7 @@ public class Agac {
     
     //Ağaçta arama yapma
     Dugum ara(int eleman){
-        Dugum d = kok;
+        Dugum d = kok; 
         while(d != null){
             if(d.icerik == eleman){
                 return d;

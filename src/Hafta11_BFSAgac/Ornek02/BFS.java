@@ -20,7 +20,7 @@ public class BFS {
     
     void BFSGez(int dugum){
         int v = dugum;
-        System.out.println(v);
+        System.out.print(v  + " ");
         ziyaret[v] = 1;
         k.ekle(v);
         

@@ -4,8 +4,8 @@ package Hafta1_BagliListeler.Ornek01;
  * @author bugra
  */
 public class Eleman {
-    int icerik;
-    Eleman ileri;
+    public int icerik;
+    public Eleman ileri;
     
     public Eleman(int icerik){
         this.icerik = icerik;

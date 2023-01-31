@@ -5,6 +5,7 @@ import java.util.Arrays;
 /**
  *
  * @author bugra
+ * En büyük elemanı baloncuk gibi sona getirir.
  */
 public class BubbleSort {
     
